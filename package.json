@@ -12,7 +12,10 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~9.0.0",
+<<<<<<< HEAD
     "@angular/cdk": "^9.1.3",
+=======
+>>>>>>> initial commit
     "@angular/common": "~9.0.0",
     "@angular/compiler": "~9.0.0",
     "@angular/core": "~9.0.0",

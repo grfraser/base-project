@@ -1,6 +1,10 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+<<<<<<< HEAD
   "version": 1,
+=======
+  "version": 1, 
+>>>>>>> initial commit
   "newProjectRoot": "projects",
   "projects": {
     "base-project": {
@@ -123,6 +127,7 @@
           }
         }
       }
+<<<<<<< HEAD
     }
   },
   "defaultProject": "base-project",
@@ -130,3 +135,8 @@
     "analytics": false
   }
 }
+=======
+    }},
+  "defaultProject": "base-project"
+}
+>>>>>>> initial commit
